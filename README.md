@@ -9,6 +9,8 @@
 - LeetCode Clean Code Handbook: 50 Common Interview Questions - LeetCode admin 
 - The Java™ Tutorials - ORACLE Java Documentation
 
+... more concepts and codes shall be added on 
+
 ## Link 
 https://drive.google.com/file/d/1GE6eJPkVrQQL6G4Tq8mzoxw-F7rOJlM3/view?usp=sharing
 

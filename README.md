@@ -1,6 +1,6 @@
 # TheJavaBook
  
- Journey to acquire Java competency .. 👨🏻‍💻
+ Journey to Java competency .. 👨🏻‍💻
 
  Strongly recommended to read in Google Colaboratory for better readability :) 
  

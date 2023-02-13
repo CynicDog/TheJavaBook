@@ -2,7 +2,7 @@
  
  Journey to acquire Java competency .. 👨🏻‍💻
 
- Strongly recommended to read in Google Colaboratory for readability :) 
+ Strongly recommended to read in Google Colaboratory for better readability :) 
  
 
 ## Contents

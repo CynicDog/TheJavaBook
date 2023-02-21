@@ -1,6 +1,8 @@
 # TheJavaBook
  
  Journey to Java competency .. 👨🏻‍💻
+ 
+ Basics of Java on Colaboratory ☕️
 
  Strongly recommended to read in Google Colaboratory for better readability :) 
  

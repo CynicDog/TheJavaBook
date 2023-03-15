@@ -2,7 +2,7 @@
  
  Journey to Java competency .. 👨🏻‍💻
  
- Basics of Java implemented on Google Colaboratory.
+ Basics of Java concepts run on Google Colaboratory.
 
  Strongly recommended to read in Google Colaboratory for better readability :) 
  

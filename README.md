@@ -17,7 +17,7 @@
 ... more concepts and codes shall be added on 
 
 ## Link 
-https://drive.google.com/file/d/1GE6eJPkVrQQL6G4Tq8mzoxw-F7rOJlM3/view?usp=sharing
+https://drive.google.com/file/d/1XOYULjo9Klu2CpyY3hSNhIMEPTddv-Tk/view?usp=sharing
 
 ## Preview 
 <img width="500" alt="Capture 2023-02-20 at 7 59 05 PM" src="https://user-images.githubusercontent.com/96886982/220221876-03e8a561-d667-41aa-b76b-990b1f354913.png">

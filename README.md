@@ -1,6 +1,6 @@
 # TheJavaBook
  
- Journey to Java competency .. 👨🏻‍💻
+ Journey to my Java competency .. 👨🏻‍💻
  
  Basics of Java concepts run on Google Colaboratory.
 

@@ -9,9 +9,8 @@
 
 ## Contents
 - LeetCode Clean Code Handbook: 50 Common Interview Questions - LeetCode admin 
-- Functional Programming 
-- Test Driven Development
-- Type Conversion / Compatibility
+- Functional Programming
+- Spring Framework projects 
 
 ... more concepts and codes shall be added on 
 

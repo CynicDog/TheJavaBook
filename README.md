@@ -10,7 +10,9 @@
 ## Contents
 - LeetCode Clean Code Handbook: 50 Common Interview Questions - LeetCode admin 
 - Functional Programming
-- Spring Framework projects 
+- Spring Framework projects
+- Vert.x toolkit 
+- Jwt library
 
 ... more concepts and codes shall be added on 
 
